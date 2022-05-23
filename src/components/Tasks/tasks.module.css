@@ -1,7 +1,13 @@
 .tasks {
-  /* sample */
+   /* float: left; */
+   text-align: left;
+   font-size: larger;
+   /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;   */
+   /* background-image: linear-gradient(135deg, #79f1a4 10%, #192028 100%); */
 }
-
+.tasks li{
+  list-style-type: none;
+}
 .empty {
-  /* sample */
+   
 }
